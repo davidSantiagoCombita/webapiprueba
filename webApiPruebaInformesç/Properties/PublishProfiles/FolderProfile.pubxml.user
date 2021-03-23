@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\combi\Desktop\publicacion Web api prueba</_PublishTargetUrl>
+    <History>True|2021-03-23T17:32:20.2273680Z;True|2021-03-20T13:10:32.9201893-05:00;True|2021-03-20T11:48:13.3258232-05:00;False|2021-03-20T11:47:23.9285696-05:00;True|2021-03-20T11:28:20.7565012-05:00;False|2021-03-20T11:27:42.2828485-05:00;True|2021-03-19T17:59:11.0227209-05:00;</History>
+  </PropertyGroup>
+</Project>
